@@ -1,1 +1,1 @@
-ever heared of mnist dataset?
+5rytrrefever heared of mnist dataset?
